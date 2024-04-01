@@ -124,3 +124,23 @@
     width: 50px;
     margin-right: 1rem;
 }
+
+.section-accent {
+    background-color: hsl(200, 100%, 50%);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.free-title {
+    margin: 0;
+    color: white;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+.free-sub-title {
+    color: white;
+    max-width: 300px;
+}
